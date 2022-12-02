@@ -1,7 +1,7 @@
 # Electricity-Generation-Prediction
 
 
-<h4><center>:Electricity-Generation-Prediction:sunglasses:</center></h4>
+<h4><center>:sunglasses: Electricity-Generation-Prediction :sunglasses:</center></h4>
 
 How much electricity can a stem turbine generate? In this competition, our aim is to predict the unit load power generation based on the given factors of a steam turbine in specific working environments.
 <br><center><img src="images/elec.png" width=100%></center>
