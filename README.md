@@ -1,4 +1,4 @@
-# Electricity-Generation-Prediction
+# Double LGBMRegressor For Electricity Generation Prediction
 
 
 <h4><center>:sunglasses: Electricity-Generation-Prediction :sunglasses:</center></h4>
